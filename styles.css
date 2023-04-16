@@ -1,0 +1,26 @@
+/* styles.css */
+.indexcolor {
+    background-color: rgb(155, 92, 233)
+}
+.indextitle {
+    font-size: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #ff69b4;
+    text-align: center;
+    background-color: lavenderblush;
+    border-style: solid;
+    border-color:aquamarine;
+}
+.homepagelinks {
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    text-align: center;
+    background-color: aquamarine;
+}
+.salmonpagecolor {
+    background-color:darkolivegreen;
+}
+#salmontitle {
+    font-size: 50px;
+}
